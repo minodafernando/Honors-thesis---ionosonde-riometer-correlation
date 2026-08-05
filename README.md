@@ -1,10 +1,10 @@
-# 📡 Honors Thesis: Ionospheric Absorption Analysis Using Ionosonde and Riometer Data
+# Honors Thesis: Ionospheric Absorption Analysis Using Ionosonde and Riometer Data
 
 This repository contains code and visualizations developed for my honors thesis in Physics at the University of Calgary. The thesis investigates the correlation between ionosonde signal dropouts and high-frequency wave absorption, using data from Gakona, Alaska (ionosonde) and Dawson, Yukon (riometer).
 
 ---
 
-## 🧠 Background
+## Background
 
 **Ionosphere**: A charged region of the Earth's upper atmosphere (50–1000 km altitude), composed of free electrons and ions. It consists of D, E, and F layers — this project focuses on the **D and E layers**.
 
@@ -16,13 +16,13 @@ This repository contains code and visualizations developed for my honors thesis 
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To determine whether missing values in the Gakona ionosonde data are linked to periods of high absorption detected by the Dawson riometer. This was tested under the hypothesis that **HF wave absorption during high-density events disrupts ionosonde signal reflection**, causing data gaps.
 
 ---
 
-## 🔬 Method Overview
+## Method Overview
 
 - Selected the year **2012** after plotting ionosonde trends from 2012–2022 and identifying it as the most consistent dataset.
 - Chose individual days with **absorption > 3 dB** to analyze severe events (since low-absorption events are less detectable).
@@ -32,7 +32,7 @@ To determine whether missing values in the Gakona ionosonde data are linked to p
 
 ---
 
-## 📚 References
+## References
 
 [1] McElroy, M. B. (2023), *Ionosphere and Magnetosphere*, Encyclopædia Britannica  
 [2] PITHIA-NRF, *Ionosonde Instrument Overview*  
@@ -40,7 +40,7 @@ To determine whether missing values in the Gakona ionosonde data are linked to p
 
 ---
 
-## ✍️ Author
+## Author
 
 Minoda Fernando  
 BSc in Physics – University of Calgary 
